@@ -1,5 +1,7 @@
 A simple malicious Socket.IO client as a Python script. 
 
+http://blog.kotowicz.net/2011/03/html5-websockets-security-new-tool-for.html
+
 It can:
  - Handshake with a Socket.io server
  - Ignore all Origin restrictions
