@@ -1,0 +1,9 @@
+GET %PATH% HTTP/1.1
+Upgrade: WebSocket
+Connection: Upgrade
+Host: %HOST%
+Origin: http://%ORIGIN%
+Sec-WebSocket-Key1: 52[6 21   S~H 2   60Or
+Sec-WebSocket-Key2: 4`168 I131  069
+
+F½By£1Æ

@@ -1,0 +1,10 @@
+~r[{"length":1}]
+~r{"length":1}
+~j{"messages":[{"length":1}]}
+~j{"length":1}
+hello
+hello<script>alert(/xss/)</script>
+hello<img src=x:x onerror=alert(/xss.2/)>
+~j{
+~j
+~r~m~EVJLFDJP~
